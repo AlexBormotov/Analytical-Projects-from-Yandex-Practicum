@@ -6,8 +6,8 @@
 
 | Название проекта | Описание | Используемые библиотеки | 
 | :---------------------- | :---------------------- | :---------------------- |
-| [Оптимизация маркетинговых затрат в Яндекс.Афише](Project 6 - Marketing analysis of Yandex.Afisha) | Общее задание: дать рекомендации маркетологам о том как оптимизировать расходы на рекламу. | `pandas`, `numpy`, `matplotlib`, `seaborn`, `math`, `scipy`, `datetime` |
-| [Анализ пользовательского поведения в мобильном приложении](Project 9 - Analysis of mobile app clients) | Стартап продаёт продукты питания. Стоит задача: понять, как ведут себя клиенты мобильного приложения. | `pandas`, `matplotlib`, `seaborn`, `plotly` |
+| [Оптимизация маркетинговых затрат в Яндекс.Афише](https://github.com/AlexBormotov/projects-by-alexander-bormotov/tree/master/Project%206%20-%20Marketing%20analysis%20of%20Yandex.Afisha) | Общее задание: дать рекомендации маркетологам о том как оптимизировать расходы на рекламу. | `pandas`, `numpy`, `matplotlib`, `seaborn`, `math`, `scipy`, `datetime` |
+| [Анализ пользовательского поведения в мобильном приложении](https://github.com/AlexBormotov/projects-by-alexander-bormotov/tree/master/Project%209%20-%20Analysis%20of%20mobile%20app%20clients) | Стартап продаёт продукты питания. Стоит задача: понять, как ведут себя клиенты мобильного приложения. | `pandas`, `matplotlib`, `seaborn`, `plotly` |
 
 Список всех проектов:
 
