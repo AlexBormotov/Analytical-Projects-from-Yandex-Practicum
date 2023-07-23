@@ -1,13 +1,13 @@
-# 6. Оптимизация маркетинговых затрат в Яндекс.Афише
+# 6. Optimization of marketing costs in Yandex.Afisha
 
-*Внимание! Это учебный проект, в проекте не доступен перезапуск ячеек. Датасеты Яндекса защищены соглашением о неразглашении.*
+*Attention! This is a tutorial project in Russian. Сell restart is not available in the project. Yandex datasets are protected by a non-disclosure agreement.*
 
-#### Описание проекта
+#### Project description
 
-**Цель проекта**: дать рекомендации маркетологам о том как оптимизировать расходы на рекламу.
+**The purpose of the project**: to give recommendations to marketers on how to optimize advertising costs.
 
-**Вывод**: проект отвечает на вопросы как посетители пользуются сайтом, как быстро начинают покупать, сколько тратит каждый клиент, когда клиент окупается. 3 источник приносит нецелевой и дорогой трафик, а 9 окупается лучше всех
+**Conclusion**: the project answers questions about how visitors use the site, how quickly they start buying, how much each client spends, when the client pays off. Source 3 brings untargeted and expensive traffic, and 9 pays off the best
 
-**Cтек**: `python`, `pandas`, `numpy`, `matplotlib`, `seaborn`, `math`, `scipy`, `datetime`, `предобработка данных`, `исследовательский анализ данных`, `визуализация данных`, `предобработка данных`, `когортный анализ`, `юнит-экономика`, `продуктовые метрики`
+**Stek**: `python`, `pandas`, `numpy`, `matplotlib`, `seaborn`, `math`, `scipy`, `datetime`, `data preprocessing`, `exploratory data analysis`, `data visualization`, `cohort analysis`, `unit economy`, `product metrics`
 
-**Статус проекта**: закончен.
+**Project Status**: done.
