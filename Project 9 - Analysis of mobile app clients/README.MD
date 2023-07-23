@@ -1,4 +1,4 @@
-# 9. Analysis of user behavior in a mobile application
+# Analysis of user behavior in a mobile application
 
 *Attention! This is a tutorial project in Russian. Сell restart is not available in the project. Yandex datasets are protected by a non-disclosure agreement.*
 
