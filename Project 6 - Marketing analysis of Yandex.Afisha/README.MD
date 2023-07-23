@@ -1,4 +1,4 @@
-# 6. Optimization of marketing costs in Yandex.Afisha
+# Optimization of marketing costs in Yandex.Afisha
 
 *Attention! This is a tutorial project in Russian. Сell restart is not available in the project. Yandex datasets are protected by a non-disclosure agreement.*
 
