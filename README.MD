@@ -16,12 +16,12 @@ List of all projects:
 3. Determination of a favorable tariff for the telecom company
 4. Study of patterns that determine the success of games
 5. Research of airline data — to test the hypothesis of an increase in demand during festivals
-6. Optimization of marketing costs in Yandex.Afyshe
+6. Optimization of marketing costs in Yandex.Afisha
 7. Testing hypotheses on increasing revenue in the online store — evaluate the results of the A/B test
 8. Research of the public catering market in Moscow to make a decision on the opening of a new establishment
 9. Analysis of user behavior in a mobile application
 10. Creating a dashboard for user events for the news aggregator
 11. Forecasting the probability of churn of users for fitness centers
-12. Analysis of the product assortment of the "Poka Vse Eschyu Tut" online store — creation of a list of products for the recommender system
+12. Analysis of the product assortment of the "Poka Vse Esche Tut" online store — creation of a list of products for the recommender system
 
 Common tool stack: `python`, `sql`, `pandas`, `numpy`, `matplotlib`, `seaborn`, `math`, `scipy`, `stats`, `datetime`, `plotly`, `graph_objects`, `sqlalchemy`, `scikit-learn`, `data preprocessing`, `lemmatization`, `research data analysis`, `data visualization`, `descriptive statistics`, `statistical hypothesis testing`, `cohort analysis`, `unit economics`, `product metrics`, `A/B testing`, `event analytics`, `machine learning`, `classification`, `clustering`
