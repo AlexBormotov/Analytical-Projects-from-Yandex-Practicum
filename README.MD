@@ -1,27 +1,27 @@
-# Проекты выполненные в Яндекс.Практикуме
+# Projects completed in Yandex.Practicum
 
-*Все проекты защищены авторсими правами и соглашением о неразглашении. Датасеты не доступны, коментарии и тексты сотрудников Яндекса удалены.*
+*All projects are protected by copyright and a non-disclosure agreement. Datasets are not available, comments and texts of Yandex employees have been removed.*
 
-Данные проекты были выполнены в ходе обучения в Яндекс.Практикуме, профессии "Аналитик данных":
+These projects were completed during training in Yandex.Practice in Russian, the profession "Data Analyst":
 
-| Название проекта | Описание | Используемые библиотеки | 
+| Project name | Description | Used libraries | 
 | :---------------------- | :---------------------- | :---------------------- |
-| [Оптимизация маркетинговых затрат в Яндекс.Афише](https://github.com/AlexBormotov/projects-by-alexander-bormotov/tree/master/Project%206%20-%20Marketing%20analysis%20of%20Yandex.Afisha) | Общее задание: дать рекомендации маркетологам о том как оптимизировать расходы на рекламу. | `pandas`, `numpy`, `matplotlib`, `seaborn`, `math`, `scipy`, `datetime` |
-| [Анализ пользовательского поведения в мобильном приложении](https://github.com/AlexBormotov/projects-by-alexander-bormotov/tree/master/Project%209%20-%20Analysis%20of%20mobile%20app%20clients) | Стартап продаёт продукты питания. Стоит задача: понять, как ведут себя клиенты мобильного приложения. | `pandas`, `matplotlib`, `seaborn`, `plotly` |
+| [Optimization of marketing costs in Yandex.Afysha](https://github.com/AlexBormotov/projects-by-alexander-bormotov/tree/master/Project%206%20-%20Marketing%20analysis%20of%20Yandex.Afisha) | The general task: to give recommendations to marketers on how to optimize advertising spending. | `pandas`, `numpy`, `matplotlib`, `seaborn`, `math`, `scipy`, `datetime` |
+| [Analysis of user behavior in a mobile application](https://github.com/AlexBormotov/projects-by-alexander-bormotov/tree/master/Project%209%20-%20Analysis%20of%20mobile%20app%20clients) | The startup sells food products. The task is to understand how mobile application clients behave. | `pandas`, `matplotlib`, `seaborn`, `plotly` |
 
-Список всех проектов:
+List of all projects:
 
-1. Исследование надёжности заёмщиков — анализ банковских данных
-2. Продажа квартир в Санкт-Петербурге — анализ рынка недвижимости
-3. Определение выгодного тарифа для телеком компании
-4. Изучение закономерностей, определяющих успешность игр
-5. Исследование данных авиакомпании — проверить гипотезу о повышении спроса во время фестивалей
-6. Оптимизация маркетинговых затрат в Яндекс.Афише
-7. Проверка гипотез по увеличению выручки в интернет-магазине — оценить результаты A/B теста
-8. Исследования рынка общепита в Москве для принятия решения об открытии нового заведения
-9. Анализ пользовательского поведения в мобильном приложении
-10. Создание дашборда по пользовательским событиям для агрегатора новостей
-11. Прогнозирование вероятности оттока пользователей для фитнес-центров
-12. Анализ товарного ассортимента интернет-магазина "Пока все ещё тут" — создание списка товаров для рекомендательной системы
+1. Investigating the reliability of borrowers — analysis of bank data
+2. Apartments for sale in St. Petersburg — analysis of the real estate market
+3. Determination of a favorable tariff for the telecom company
+4. Study of patterns that determine the success of games
+5. Research of airline data — to test the hypothesis of an increase in demand during festivals
+6. Optimization of marketing costs in Yandex.Afyshe
+7. Testing hypotheses on increasing revenue in the online store — evaluate the results of the A/B test
+8. Research of the public catering market in Moscow to make a decision on the opening of a new establishment
+9. Analysis of user behavior in a mobile application
+10. Creating a dashboard for user events for the news aggregator
+11. Forecasting the probability of churn of users for fitness centers
+12. Analysis of the product assortment of the "Poka Vse Eschyu Tut" online store — creation of a list of products for the recommender system
 
-Общий стек инструментов: `python`, `sql`, `pandas`, `numpy`, `matplotlib`, `seaborn`, `math`, `scipy`, `stats`, `datetime`, `plotly`, `graph_objects`, `sqlalchemy`, `scikit-learn`, `предобработка данных`, `лемматизация`, `исследовательский анализ данных`, `визуализация данных`, `предобработка данных`, `описательная статистика`, `проверка статистических гипотез`, `когортный анализ`, `юнит-экономика`, `продуктовые метрики`, `A/B-тестирование`, `событийная аналитика`, `машинное обучение`, `классификация`, `кластеризация`
+Common tool stack: `python`, `sql`, `pandas`, `numpy`, `matplotlib`, `seaborn`, `math`, `scipy`, `stats`, `datetime`, `plotly`, `graph_objects`, `sqlalchemy`, `scikit-learn`, `data preprocessing`, `lemmatization`, `research data analysis`, `data visualization`, `descriptive statistics`, `statistical hypothesis testing`, `cohort analysis`, `unit economics`, `product metrics`, `A/B testing`, `event analytics`, `machine learning`, `classification`, `clustering`
