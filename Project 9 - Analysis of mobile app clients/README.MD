@@ -1,13 +1,13 @@
-# 9. Анализ пользовательского поведения в мобильном приложении
+# 9. Analysis of user behavior in a mobile application
 
-*Внимание! Это учебный проект, в проекте не доступен перезапуск ячеек. Датасеты Яндекса защищены соглашением о неразглашении.*
+*Attention! This is a tutorial project in Russian. Сell restart is not available in the project. Yandex datasets are protected by a non-disclosure agreement.*
 
-#### Описание проекта
+#### Project description
 
-**Цель проекта**: Стартап продаёт продукты питания. Стоит задача понять, как ведут себя клиенты мобильного приложения, проверить результаты А/А/B-тестирования
+**Objective of the project**: The startup sells food products. The task is to understand how mobile app clients behave, to check the results of A/A/B testing
 
-**Вывод**: При проверках были обнаружены ложноотрицательные результаты (ошибка 2 рода) при сравнении разницы долей в событии "PaymentScreenSuccessful" в группах 247 и 248: мы отвергли гипотезу
+**Conclusion**: False-negative results (type 2 error) were found during checks when comparing the difference in shares in the "PaymentScreenSuccessful" event in groups 247 and 248: we rejected the hypothesis
 
-**Cтек**: `python`, `pandas`, `matplotlib`, `seaborn`, `plotly`, `событийная аналитика`, `продуктовые метрики`, `A/B-тестирование`, `проверка статистических гипотез`, `визуализация данных`
+**Stek**: `python`, `pandas`, `matplotlib`, `seaborn`, `plotly`, `event analytics`, `product metrics`, `A/B testing`, `testing of statistical hypotheses`, `data visualization`
 
-**Статус проекта**: закончен.
+**Project Status**: done.
